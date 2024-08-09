@@ -26,3 +26,8 @@ Contains both python and C++ versions.
  2. Open 64 bit shell, run `pacman -Syu`
  3. install `pacman -S mingw-w64-x86_64-openvr`
  4. Run `make` in the directory
+
+### for Linux Users
+ 1. Open the main "vr_index_brightness" folder in terminal
+ 2. Run "make"
+ 3. Use ./index_brightness.exe <brightness> to set brightness (make sure steamvr is running)
