@@ -28,6 +28,7 @@ Contains both python and C++ versions.
  4. Run `make` in the directory
 
 ### for Linux Users
- 1. Open the main "vr_index_brightness" folder in terminal
- 2. Run "make"
- 3. Use ./index_brightness.exe <brightness> to set brightness (make sure steamvr is running)
+ 1. switch to linux branch
+ 2. Open the main "vr_index_brightness" folder in terminal
+ 3. Run "make"
+ 4. Use ./index_brightness.exe <brightness> to set brightness (make sure steamvr is running)
